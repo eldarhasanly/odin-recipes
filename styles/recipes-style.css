@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+}
+
+
+ul {
+    list-style-type: none;
+}
+
+li, p {
+    margin: 10px;
+    font-size:large;
+}
